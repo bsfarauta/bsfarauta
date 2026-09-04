@@ -1,17 +1,13 @@
-# Hi there, I'm Bhupendra Singh 👋
-
-<div align="center">
-  
+# Bhupendra Singh
 ### Aspiring Data Analyst | Python Learner | Excel Enthusiast
-
-</div>
+> Turning data into meaningful insights |
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning: **Python, SQL, Data Analysis, Excel**
+- 🚀 Skills: **Excel, Power BI, SQL, Python | Currently exploring: Advanced Data Visualization**
 - 📍 From: **Farauta, Amroha, UP**
-- 🎯 Goal: **To become a Data Analyst in 2026**
+- 🎯 Goal: **Looking for a Data Analyst role | Open to Work**
 - 📫 Reach me: **bsfarauta@gmail.com**
 
 ### 🛠️ Skills
