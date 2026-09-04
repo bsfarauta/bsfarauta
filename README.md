@@ -3,7 +3,7 @@
 **Aspiring Data Analyst | Python Learner**
 
 - 🌱 Currently learning: Python, SQL, Data Analysis
-- 📍 From: Farauta, UP
+- 📍 From: Farauta, AMROHA, UP
 - 📫 Reach me: bsfarauta@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/bhupendra-singh-16354322a/
 
