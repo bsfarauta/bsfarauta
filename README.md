@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Skills: **Excel, Power BI, SQL, Python | Currently exploring: Advanced Data Visualization**
+- 🚀 Skills: **Excel, Power BI, SQL, Python | Currently developing: Advanced Data Visualization**
 - 📍 From: **Farauta, Amroha, UP**
 - 🎯 Goal: **Targeting Data Analytics, MIS & Reporting role | Open to Work**
 - 📫 Reach me: **bsfarauta@gmail.com**
