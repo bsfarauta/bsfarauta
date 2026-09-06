@@ -1,5 +1,5 @@
 # Bhupendra Singh
-### Aspiring Data Analyst | Python Learner | Excel Enthusiast
+### Data Analytics | SQL | Power BI | Excel | Python | Building Data Projects
 > Turning data into meaningful insights |
 
 ---
