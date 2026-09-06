@@ -1,5 +1,5 @@
 # Bhupendra Singh
-### Data Analytics | SQL | Power BI | Excel | Python | Building Data Projects
+### Data Analytics | SQL | Power BI | Excel | Python
 > Turning data into meaningful insights |
 
 ---
